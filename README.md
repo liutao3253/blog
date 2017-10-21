@@ -1,4 +1,4 @@
-# Jason's Blog
+# Blog
 
 > My new blog powered by Vue.js
 
